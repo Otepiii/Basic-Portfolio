@@ -123,6 +123,23 @@ label {
     margin-left: 16px;
 }
 
-.contact-box {
+.btn {
+    background-color: #4aaaa5;
+    border: 0;
+    color: white;
 
 }
+
+.container {
+    position: relative;
+    width: 50%;
+    float: left;
+  }
+
+  .container .btn {
+    font-size: 10px;
+    padding: 11px 24px;
+    border: none;
+  }
+
+ 
